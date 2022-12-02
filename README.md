@@ -1,3 +1,3 @@
-# Pandaflag Bugs
+# Pandaflag Feedback & Bugs
 
-We keep track of customer bugs in the form of issues in order to communicate with customers and solve problems
+Here you can share feedback or report bugs regarding [Pandaflag](https://app.pandaflag.com/flags)
